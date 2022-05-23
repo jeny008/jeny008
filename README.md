@@ -4,7 +4,7 @@
 <h5 align="center">Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.</h5>
 
 
-![age](https://img.shields.io/badge/age-22-blue)
+![age](https://img.shields.io/badge/age-22-blue&height="20")
 ![living](https://img.shields.io/badge/living-Valsad,Gujarat-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
