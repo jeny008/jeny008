@@ -165,41 +165,12 @@
 
 
 
-
-
-
-
-
-
-
-
 <!-- <br />
 <br />
 
 <h2 align="center">⚡ My Github Stats ⚡</h2>
 <br> -->
-<!-- <p align=center>
-  <div align=center>
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=lionelsamrat10&theme=react&border=61dafb&hide_border=true" alt="lionelsamrat10" />
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=lionelsamrat10&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionelsamrat10&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=mdarshadkhan1998&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
-</p> -->
 
-<!-- ![Github Stats](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/82591f810de6d5a525bcd5f9d5dd654038303d52/github-metrics.svg) -->
 
-<!-- ### :point_down: GitPic  -->
-
-<!-- ![lionelsamrat10](https://socialify.git.ci/lionelsamrat10/lionelsamrat10/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Dark) -->
-<!-- <div align="center">
-  <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=mdarshadkhan1998" />
-</div> -->
-
-<!-- <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" /> -->
 
 ![](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/footer.png)
