@@ -9,7 +9,7 @@
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/jaynika-tandel-809527233/)
-[![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow)](https://medium.com/@jenytandel007))
+[![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow)](https://medium.com/@jenytandel007)
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/jeny008)
 
 ### Skills
@@ -30,93 +30,93 @@
 
   <table align="center">
   <tr>
-  <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="c" />
       </a>
       <br>C
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://en.wikipedia.org/wiki/C%2B%2B">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
       <a href="https://www.javascript.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="https://www.oracle.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://www.python.org/">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="Python" />
       </a>
       <br>React
     </td>
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="https://git-scm.com/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://azure.microsoft.com/" >
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48" alt="Azure" />
       </a>
       <br>Azure
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
       <a href="https://www.docker.com/" >
         <img src="https://www.kevinleonards.me/upload/express.png" width="48" height="48" alt="Docker" />
       </a>
       <br>ExpressJs
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96"> 
+  <tr> -->
+<!--     <td align="center" width="96"> 
       <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html" />
       </a>
       <br>HTML5
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
       <a href="https://ubuntu.com/" >
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Bootstrap
-    </td>
-    <td align="center"  width="96">
+    </td> -->
+<!--     <td align="center"  width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css" />
       </a>
       <br>CSS
-    </td
-    <td align="center"  width="96">
+    </td> -->
+<!--     <td align="center"  width="96">
       <a href="https://www.linux.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
       </a>
       <br>Linux
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="https://docs.microsoft.com/en-us/powershell/">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>Powershell
     </td>
-    <td align="center"  width="96">
+<!--     <td align="center"  width="96">
       <a href="https://aws.amazon.com/">
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
-    </td> 
+    </td>  -->
     <td align="center" width="96">
       <a href="#" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="bash" />
@@ -124,12 +124,12 @@
       <br>Bash
     </td>
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://spring.io/" >
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring" />
       </a>
       <br>Spring
-    </td> 
+    </td>  -->
   </tr>
 </table> 
 
