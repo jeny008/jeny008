@@ -1,4 +1,4 @@
-![image](https://www.xebiaacademyglobal.com/uploads/courses/course_images/1643622083_a7bdfb4085fe4e8b3325.webp)
+![image](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png)
 
 <h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jaynika Tandel</h1>
 <h5 align="center">Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.</h5>
