@@ -1,8 +1,12 @@
 ![image](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png)
 
-<h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jaynika Tandel</h1>
-<h5 align="center">Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.</h5>
+<h1 align="center">Hi !!, I am Jaynika Tandel</h1>
+<h5 align="center"><i>I'm a Full-Stack-Web Developer with some remarkable analytical skills.</i></h5>
+<h6 align="center"><i>I consider myself as a tech  enthusiastic person.</i></h6>
 
+<h5 align="left"><i>Portfolio --- </i>
+<a href="https://jaynikatandel.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
+</h5>
 
 ![age](https://img.shields.io/badge/age-22-blue&height="20")
 ![living](https://img.shields.io/badge/living-Valsad,Gujarat-maroon)
